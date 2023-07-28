@@ -17,9 +17,10 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
-    {"name":"sSmallVehicles","order":16,"path":"sprites/sSmallVehicles/sSmallVehicles.yy",},
+    {"name":"sSmallVehicles","order":2,"path":"sprites/sSmallVehicles/sSmallVehicles.yy",},
+    {"name":"oSmallVehicles","order":2,"path":"objects/oSmallVehicles/oSmallVehicles.yy",},
+    {"name":"oMediumVehicles","order":1,"path":"objects/oMediumVehicles/oMediumVehicles.yy",},
     {"name":"Notes","order":19,"path":"notes/Notes/Notes.yy",},
-    {"name":"sMediumVehicles","order":18,"path":"sprites/sMediumVehicles/sMediumVehicles.yy",},
-    {"name":"sLargeVehicles","order":17,"path":"sprites/sLargeVehicles/sLargeVehicles.yy",},
+    {"name":"sMediumVehicles","order":1,"path":"sprites/sMediumVehicles/sMediumVehicles.yy",},
   ],
 }
