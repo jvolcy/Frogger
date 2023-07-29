@@ -1,8 +1,11 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Object4",
-  "eventList": [],
+  "name": "oFrogLeapRight",
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
+  ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
@@ -26,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sFrogLeapUp",
-    "path": "sprites/sFrogLeapUp/sFrogLeapUp.yy",
+    "name": "sFrogLeapRight",
+    "path": "sprites/sFrogLeapRight/sFrogLeapRight.yy",
   },
   "spriteMaskId": null,
   "visible": true,
